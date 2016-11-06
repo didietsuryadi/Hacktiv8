@@ -3,7 +3,7 @@
 ___
 ###Welcome to My Markdown
 ***
-![Welcome][http://nvps.net/wp-content/uploads/2016/09/Welcome.jpg]
+![Welcome](http://nvps.net/wp-content/uploads/2016/09/Welcome.jpg)
 
 Perkenalkan nama saya **Didit Suryadi**, saya adalah seorang _teknisi dibidang telekomunikasi_ yang memiliki pengalaman hampir 5 tahun. Saya mengenal hacktiv8 sejak pembukaan batch 1 namun saya memiliki keraguan karena biaya yang besar namun alhamdulillah pada batch 3 ini banyak discount yang ditawarkan serta kemudahan untuk mendapatkan angsuran. Sehingga saya tidak segan untuk mengambil kesempatan ini. Hari ini saya sudah memasuki phasa 0, banyak rintangan yang haru saya hadapi diantaranya :
 
@@ -29,5 +29,9 @@ English Course | [x] | [x] | [x] | [x] | [x] | [ ] | [ ]
 Sport Course | [ ] | [x] | [ ] | [x] | [ ] | [ ] | [ ]
 Collage | [x] | [x] | [x] | [x] | [x] | [x] | [x]
 
-> Setiap Usaha yang dilakukan sungguh-sungguh akan ada hasil yang baik di akhir cerita
+> Setiap Usaha yang dilakukan sungguh-sungguh akan ada hasil yang baik di akhir cerita :muscle::muscle::muscle:
+
+Waktunya berjogett :dancers::dancers::dancers:
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/RY7vcYvb69k/maxresdefault.jpg)](https://www.youtube.com/watch?v=0E00Zuayv9Q)
 
