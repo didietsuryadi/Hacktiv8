@@ -3,7 +3,7 @@
 ___
 ###Welcome to My Markdown
 ***
-[![Welcome](http://sanimogoan.com/wp-content/uploads/2015/11/gambar-kartun-animasi-welcome-300x225.png)]
+![Welcome](http://sanimogoan.com/wp-content/uploads/2015/11/gambar-kartun-animasi-welcome-300x225.png)
 
 Perkenalkan nama saya **Didit Suryadi**, saya adalah seorang _teknisi dibidang telekomunikasi_ yang memiliki pengalaman hampir 5 tahun. Saya mengenal hacktiv8 sejak pembukaan batch 1 namun saya memiliki keraguan karena biaya yang besar namun alhamdulillah pada batch 3 ini banyak discount yang ditawarkan serta kemudahan untuk mendapatkan angsuran. Sehingga saya tidak segan untuk mengambil kesempatan ini. Hari ini saya sudah memasuki phasa 0, banyak rintangan yang haru saya hadapi diantaranya :
 
